@@ -10,6 +10,7 @@ Building production-grade **Agentic AI**, **RAG platforms**, and **cloud-native 
 [![GitHub](https://img.shields.io/badge/GitHub-sarswam-181717?style=flat&logo=github)](https://github.com/sarswam)
 ![Focus](https://img.shields.io/badge/Focus-Enterprise%20GenAI-blueviolet)
 ![Cloud](https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![AWS ML Associate](https://img.shields.io/badge/AWS%20ML-Associate-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 </div>
 
