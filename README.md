@@ -136,6 +136,7 @@ I like to start with the workflow, not the model.
 
 - MongoDB SI Associate
 - AI Agents and MLOps for Production-Ready AI
+- AWS Certified Machine Learning - Associate
 - AWS Prompt Engineering
 - Databricks LLM and Generative AI
 - Post Graduate Program in Data Science and Business Analytics
